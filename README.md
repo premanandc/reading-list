@@ -4,21 +4,20 @@
 
 ## Self-paced Video Courses
 ### Foundational
-Title | Comments |
-------| -------- |
-[Introduction to OOP Principles](https://www.safaribooksonline.com/learning-paths/learning-path-introduction/9781788625791/)|
-[Modern Java Collections](https://www.safaribooksonline.com/live-training/courses/java-8-generics-in-3-hours/0636920159766/)|
-[Test Driven Development, Refactoring and Pair Programming](https://www.safaribooksonline.com/library/view/test-driven-development/9780134035437/)|
-### Domain-Driven Design
-Title | Comments |
-------| -------- |
-[Domain-Driven Design Fundamentals](https://app.pluralsight.com/library/courses/domain-driven-design-fundamentals/table-of-contents)|
-### Microservices & Cloud Computing
-Title | Comments |
-------| -------- |
+Title | Duration | Comments |
+------|:--------:| -------- | 
+[Java Fundamentals: Object-Oriented Design](https://app.pluralsight.com/library/courses/java-fundamentals-object-oriented-design/)|2 hours|[Allen Holub](http://holub.com/) uses **Java** in the examples, but the concepts apply in a much more general context.
+[SOLID Principles of Object Oriented Design](https://app.pluralsight.com/library/courses/principles-oo-design/)|4 hours
+[Design Patterns in the Real World](https://www.safaribooksonline.com/library/view/design-patterns-in/9781491935828/)|7 hours|
+[The Art of Unit Testing](https://www.safaribooksonline.com/library/view/the-art-of/9781617290893VE/)|8 hours|The author uses **C#** in the examples, but the concepts apply in a much more general context.
+### Architecture Patterns
+
+Title | Duration | Comments |
+------| -------- | -------- |
+[Domain-Driven Design Fundamentals](https://app.pluralsight.com/library/courses/domain-driven-design-fundamentals/table-of-contents)|4 hours|The sections where Eric Evans (author of the original blue book) are particularly insightful
+[Event Driven Microservices](https://www.safaribooksonline.com/library/view/event-driven-microservices/9781491944165/)|5 hours|Covers quite a lot of ground for a lot of the technologies and techniques that are very relevant to us. The companion website https://microservices.io/ is a great resource that provides abridged versions of the material presented in the course.
 [Cloud Native Architecture Fundamentals](https://www.safaribooksonline.com/learning-paths/learning-path-cloud/9781491984475)|
 [Microservice Design Patterns](https://www.safaribooksonline.com/learning-paths/learning-path-microservice/9781491993958/)|
-[Developing Event-Driven Microservices](https://www.safaribooksonline.com/learning-paths/learning-path-developing/9781491993996/)|
 
 ### Tools & Technologies
 Title | Comments |
@@ -38,7 +37,7 @@ Title | Comments |
 [xUnit Test Patterns: Refactoring Test Code](https://www.safaribooksonline.com/library/view/xunit-test-patterns/9780131495050/)|
 [Pragmatic Unit Testing in Java 8 with JUnit](https://www.safaribooksonline.com/library/view/pragmatic-unit-testing/9781680500769/)|
 
-### Cloud Computing
+### Architecture Patterns
 Title | Comments |
 ------| -------- |
 [Cloud Native Java](https://www.safaribooksonline.com/library/view/cloud-native-java/9781449374631/)|
