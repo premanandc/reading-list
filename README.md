@@ -6,8 +6,8 @@
 ### Foundational
 Title | Duration | Comments |
 ------|:--------:| -------- | 
-[Clean Code](https://www.safaribooksonline.com/library/view/clean-code/9780134661742/)|20 hours|Uncle Bob does his thing. The rest, as they say, is history.
-[Design Patterns in the Real World](https://www.safaribooksonline.com/library/view/design-patterns-in/9781491935828/)|7 hours|Alan Holub dives deep into the intricacies of design patterns.
+[Clean Code](https://www.safaribooksonline.com/library/view/clean-code/9780134661742/)|20 hours|[Uncle Bob](https://www.google.com/search?q=uncle+bob) does his thing. The rest, as they say, is history.
+[Design Patterns in the Real World](https://www.safaribooksonline.com/library/view/design-patterns-in/9781491935828/)|7 hours|[Allen Holub](http://holub.com/) dives deep into the intricacies of design patterns.
 [Java Fundamentals: Object-Oriented Design](https://app.pluralsight.com/library/courses/java-fundamentals-object-oriented-design/)|2 hours|[Allen Holub](http://holub.com/) uses **Java** in the examples, but the concepts apply in a much more general context.
 [The Art of Unit Testing](https://www.safaribooksonline.com/library/view/the-art-of/9781617290893VE/)|8 hours|The author uses **C#** in the examples, but the concepts apply in a much more general context.
 
