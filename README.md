@@ -2,34 +2,6 @@
 
 > The whole is greater than the sum of its parts - Aristotle
 
-## Live online courses
-These courses are conducted live by the authors. Each course typically lasts anywhere from about an hour to about half a day. You will need to sign up for a particular date and time on the [Safari Books Online](https://www.safaribooksonline.com) site. If you miss a particular date, you will have to wait for the next time the author is scheduled to address that course.
-
-### Foundational
-Title | Comments |
-------| -------- |
-[Java 8 Generics in 3 Hours](https://www.safaribooksonline.com/live-training/courses/java-8-generics-in-3-hours/0636920159766/)|
-[Design Patterns in Java](https://www.safaribooksonline.com/live-training/courses/design-patterns-in-java/0636920162469/)|
-[Progressive Web Apps: Beyond the Basics](https://www.safaribooksonline.com/live-training/courses/progressive-web-apps-beyond-the-basics/0636920150343/)|
-### Frameworks
-Title | Comments |
-------| -------- |
-[Getting Started with Spring and Spring Boot](https://www.safaribooksonline.com/live-training/courses/getting-started-with-spring-and-spring-boot/0636920165187/)|
-[Advanced React](https://www.safaribooksonline.com/live-training/courses/advanced-react/0636920159131/)|
-[React Beyond the Basics - Master React's Advanced Concepts](https://www.safaribooksonline.com/live-training/courses/react-beyond-the-basics-master-reacts-advanced-concepts/0636920165989/)|
-[Apache Hadoop, Spark and Big Data Foundations](https://www.safaribooksonline.com/live-training/courses/apache-hadoop-spark-and-big-data-foundations/0636920161714/)|
-
-### Cloud Computing & Microservices
-Title | Comments |
-------| -------- |
-[Cloud Native Architecture Patterns](https://www.safaribooksonline.com/live-training/courses/cloud-native-architecture-patterns/0636920111269/)|
-[Microservices Architecture and Design](https://www.safaribooksonline.com/live-training/courses/microservices-architecture-and-design/0636920138464/)|
-[From Monolith to Microservices](https://www.safaribooksonline.com/live-training/courses/from-monolith-to-microservices/0636920141174/)|
-### Tools
-Title | Comments |
-------| -------- |
-[Git Fundamentals](https://www.safaribooksonline.com/live-training/courses/git-fundamentals/0636920166399/)|
-  
 ## Self-paced Video Courses
 ### Foundational
 Title | Comments |
@@ -82,6 +54,35 @@ Title | Comments |
 Title | Comments |
 ------| -------- |
 [Jenkins 2: Up and Running](https://www.safaribooksonline.com/library/view/jenkins-2-up/9781491979587/)|
+
+## Live online courses
+These courses are conducted live by the authors. Each course typically lasts anywhere from about an hour to about half a day. You will need to sign up for a particular date and time on the [Safari Books Online](https://www.safaribooksonline.com) site. If you miss a particular date, you will have to wait for the next time the author is scheduled to address that course.
+
+### Foundational
+Title | Comments |
+------| -------- |
+[Java 8 Generics in 3 Hours](https://www.safaribooksonline.com/live-training/courses/java-8-generics-in-3-hours/0636920159766/)|
+[Design Patterns in Java](https://www.safaribooksonline.com/live-training/courses/design-patterns-in-java/0636920162469/)|
+[Progressive Web Apps: Beyond the Basics](https://www.safaribooksonline.com/live-training/courses/progressive-web-apps-beyond-the-basics/0636920150343/)|
+### Frameworks
+Title | Comments |
+------| -------- |
+[Getting Started with Spring and Spring Boot](https://www.safaribooksonline.com/live-training/courses/getting-started-with-spring-and-spring-boot/0636920165187/)|
+[Advanced React](https://www.safaribooksonline.com/live-training/courses/advanced-react/0636920159131/)|
+[React Beyond the Basics - Master React's Advanced Concepts](https://www.safaribooksonline.com/live-training/courses/react-beyond-the-basics-master-reacts-advanced-concepts/0636920165989/)|
+[Apache Hadoop, Spark and Big Data Foundations](https://www.safaribooksonline.com/live-training/courses/apache-hadoop-spark-and-big-data-foundations/0636920161714/)|
+
+### Cloud Computing & Microservices
+Title | Comments |
+------| -------- |
+[Cloud Native Architecture Patterns](https://www.safaribooksonline.com/live-training/courses/cloud-native-architecture-patterns/0636920111269/)|
+[Microservices Architecture and Design](https://www.safaribooksonline.com/live-training/courses/microservices-architecture-and-design/0636920138464/)|
+[From Monolith to Microservices](https://www.safaribooksonline.com/live-training/courses/from-monolith-to-microservices/0636920141174/)|
+### Tools
+Title | Comments |
+------| -------- |
+[Git Fundamentals](https://www.safaribooksonline.com/live-training/courses/git-fundamentals/0636920166399/)|
+  
 
 ## Online Resources
 * http://microservices.io/
