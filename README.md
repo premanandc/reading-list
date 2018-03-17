@@ -10,30 +10,39 @@ Title | Duration | Comments |
 [SOLID Principles of Object Oriented Design](https://app.pluralsight.com/library/courses/principles-oo-design/)|4 hours
 [Design Patterns in the Real World](https://www.safaribooksonline.com/library/view/design-patterns-in/9781491935828/)|7 hours|
 [The Art of Unit Testing](https://www.safaribooksonline.com/library/view/the-art-of/9781617290893VE/)|8 hours|The author uses **C#** in the examples, but the concepts apply in a much more general context.
-### Architecture Patterns
 
+### Architecture
 Title | Duration | Comments |
 ------| -------- | -------- |
-[Domain-Driven Design Fundamentals](https://app.pluralsight.com/library/courses/domain-driven-design-fundamentals/table-of-contents)|4 hours|The sections where Eric Evans (author of the original blue book) are particularly insightful
+[Domain-Driven Design Fundamentals](https://app.pluralsight.com/library/courses/domain-driven-design-fundamentals/table-of-contents)|4 hours|The sections where Eric Evans (author of the original blue book) are particularly insightful.
 [Event Driven Microservices](https://www.safaribooksonline.com/library/view/event-driven-microservices/9781491944165/)|5 hours|Covers quite a lot of ground for a lot of the technologies and techniques that are very relevant to us. The companion website https://microservices.io/ is a great resource that provides abridged versions of the material presented in the course.
 [Cloud Native Architecture Fundamentals](https://www.safaribooksonline.com/learning-paths/learning-path-cloud/9781491984475)|
 [Microservice Design Patterns](https://www.safaribooksonline.com/learning-paths/learning-path-microservice/9781491993958/)|
 
 ### Tools & Technologies
-Title | Comments |
-------| -------- |
+Title | Duration | Comments |
+------| -------- | -------- |
 [Docker Containers, Third Edition](https://www.safaribooksonline.com/library/view/docker-containers-third/9780134862958/)|
 [Docker Deep Dive](https://app.pluralsight.com/library/courses/docker-deep-dive/table-of-contents)|
 [Introduction to MongoDB](https://app.pluralsight.com/library/courses/mongodb-introduction/table-of-contents)|
 [Getting Started with Apache Kafka](https://app.pluralsight.com/library/courses/apache-kafka-getting-started/table-of-contents)|
 [Learn Git](https://www.codeschool.com/learn/git)|
 
+### Cloud Native: Theory & Rationale
+Title | Duration |
+------| -------- |
+[Introduction to Cloud Native Architecture](https://www.safaribooksonline.com/library/view/introduction-to-cloud/9781491989197/)|20 minutes|
+[Designing Cloud Native Architecture for DevOps](https://www.safaribooksonline.com/library/view/designing-cloud-native/9781491989210/)|30 minutes|
+[Designing Cloud Native Architecture for Continuous Delivery](https://www.safaribooksonline.com/library/view/designing-cloud-native/9781491989234/)|20 minutes|
+[Cloud Native Architecture Patterns](https://www.safaribooksonline.com/library/view/introduction-to-cloud/9781491989272)|30 minutes|
+
 ## Books
 ### Foundational
 Title | Comments |
 ------| -------- |
-[Effective Java, Third Edition](https://www.safaribooksonline.com/library/view/effective-java-third/9780134686097/)|
 [Growing Object-Oriented Software, Guided by Tests](https://www.safaribooksonline.com/library/view/growing-object-oriented-software/9780321574442/)|
+[Refactoring: Improving the Design of Existing Code](https://www.safaribooksonline.com/library/view/refactoring-improving-the/0201485672/)|
+[Effective Java, Third Edition](https://www.safaribooksonline.com/library/view/effective-java-third/9780134686097/)|
 [xUnit Test Patterns: Refactoring Test Code](https://www.safaribooksonline.com/library/view/xunit-test-patterns/9780131495050/)|
 [Pragmatic Unit Testing in Java 8 with JUnit](https://www.safaribooksonline.com/library/view/pragmatic-unit-testing/9781680500769/)|
 
