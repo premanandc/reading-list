@@ -19,6 +19,16 @@ Title | Duration | Comments |
 [Cloud Native Architecture Fundamentals](https://www.safaribooksonline.com/learning-paths/learning-path-cloud/9781491984475)|
 [Microservice Design Patterns](https://www.safaribooksonline.com/learning-paths/learning-path-microservice/9781491993958/)|
 
+### Domain-Driven Design
+Domain-Driven Design practitioner, [Michael Plöd](https://twitter.com/bitboss) addresses an easy to follow webinar series on the subject. Part 5 of the series is yet to be published.
+
+Title | Duration |
+------| -------- |
+[Overview and Core Values](https://www.youtube.com/watch?v=Z0zpSB85XGs)|1 hour
+[Strategic Design: Domains, Subdomains, Bounded Context and Context Maps](https://www.youtube.com/watch?v=pNTsTVoV2qA)|1 hour
+[Internal Building Blocks: Aggregates, Entities, Value Objects](https://www.youtube.com/watch?v=RHg53wMflCc)|1 hour
+[Domain Events & Event Storming](https://www.youtube.com/watch?v=yWDaBdV-SL8)|1 hour
+
 ### Tools & Technologies
 Title | Duration | Comments |
 ------| -------- | -------- |
@@ -45,12 +55,13 @@ Title | Comments |
 [Effective Java, Third Edition](https://www.safaribooksonline.com/library/view/effective-java-third/9780134686097/)|
 [xUnit Test Patterns: Refactoring Test Code](https://www.safaribooksonline.com/library/view/xunit-test-patterns/9780131495050/)|
 [Pragmatic Unit Testing in Java 8 with JUnit](https://www.safaribooksonline.com/library/view/pragmatic-unit-testing/9781680500769/)|
-
+[Java 8 in Action: Lambdas, Streams and Functional Programming](https://www.safaribooksonline.com/library/view/java-8-in/9781617291999/)|
 ### Architecture Patterns
 Title | Comments |
 ------| -------- |
 [Cloud Native Java](https://www.safaribooksonline.com/library/view/cloud-native-java/9781449374631/)|
 [Clean Architecture](https://www.safaribooksonline.com/library/view/clean-architecture-a/9780134494272/)|
+[Enterprise Integration Patterns: Designing, Building, and Deploying Messaging Solutions](https://www.safaribooksonline.com/library/view/enterprise-integration-patterns/0321200683/)|
 
 ### IT & Ops
 Title | Comments |
