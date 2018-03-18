@@ -28,7 +28,7 @@ Title | Duration |
 [Part 2: Strategic Design: Domains, Subdomains, Bounded Context and Context Maps](https://www.youtube.com/watch?v=pNTsTVoV2qA)|1 hour
 [Part 3: Internal Building Blocks: Aggregates, Entities, Value Objects](https://www.youtube.com/watch?v=RHg53wMflCc)|1 hour
 [Part 4: Domain Events & Event Storming](https://www.youtube.com/watch?v=yWDaBdV-SL8)|1 hour
-[Part 5: Yet to be published]|
+Part 5: Not yet published|
 
 ### Tools & Technologies
 Title | Duration | Comments |
