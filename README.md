@@ -30,6 +30,12 @@ Title | Duration |
 [Part 4: Domain Events & Event Storming](https://www.youtube.com/watch?v=yWDaBdV-SL8)|1 hour
 Part 5: Not yet published|
 
+### CQRS & Event Sourcing
+Title | Duration |
+------| -------- |
+[Greg Young's CQRS Class](https://www.youtube.com/watch?v=whCk1Q87_ZI)|6 hours
+[Building Microservices with Event Sourcing and CQRS](https://www.youtube.com/watch?v=A0goyZ9F4bg)|90 minutes
+
 ### Tools & Technologies
 Title | Duration | Comments |
 ------| -------- | -------- |
