@@ -24,10 +24,11 @@ Domain-Driven Design practitioner, [Michael Plöd](https://twitter.com/bitboss) 
 
 Title | Duration |
 ------| -------- |
-[Overview and Core Values](https://www.youtube.com/watch?v=Z0zpSB85XGs)|1 hour
-[Strategic Design: Domains, Subdomains, Bounded Context and Context Maps](https://www.youtube.com/watch?v=pNTsTVoV2qA)|1 hour
-[Internal Building Blocks: Aggregates, Entities, Value Objects](https://www.youtube.com/watch?v=RHg53wMflCc)|1 hour
-[Domain Events & Event Storming](https://www.youtube.com/watch?v=yWDaBdV-SL8)|1 hour
+[Part 1: Overview and Core Values](https://www.youtube.com/watch?v=Z0zpSB85XGs)|1 hour
+[Part 2: Strategic Design: Domains, Subdomains, Bounded Context and Context Maps](https://www.youtube.com/watch?v=pNTsTVoV2qA)|1 hour
+[Part 3: Internal Building Blocks: Aggregates, Entities, Value Objects](https://www.youtube.com/watch?v=RHg53wMflCc)|1 hour
+[Part 4: Domain Events & Event Storming](https://www.youtube.com/watch?v=yWDaBdV-SL8)|1 hour
+[Part 5: Yet to be published]|
 
 ### Tools & Technologies
 Title | Duration | Comments |
