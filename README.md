@@ -10,7 +10,7 @@ Title | Duration | Comments |
 [Design Patterns in the Real World](https://www.safaribooksonline.com/library/view/design-patterns-in/9781491935828/)|7 hours|[Allen Holub](http://holub.com/) dives deep into the intricacies of design patterns.
 [Java Fundamentals: Object-Oriented Design](https://app.pluralsight.com/library/courses/java-fundamentals-object-oriented-design/)|2 hours|[Allen Holub](http://holub.com/) uses **Java** in the examples, but the concepts apply in a much more general context.
 [The Art of Unit Testing](https://www.safaribooksonline.com/library/view/the-art-of/9781617290893VE/)|8 hours|[Roy Osherove](http://osherove.com/) uses **C#** in the examples, but the concepts apply in a much more general context.
-[Writing Testable Code](https://app.pluralsight.com/library/courses/writing-testable-code)|
+[Writing Testable Code](https://app.pluralsight.com/library/courses/writing-testable-code)|2 hours|
 
 ### Architecture
 Title | Duration | Comments |
