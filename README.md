@@ -23,7 +23,7 @@ Title | Duration | Comments |
 Domain-Driven Design practitioner, [Michael Plöd](https://twitter.com/bitboss) addresses an easy to follow webinar series on the subject. Part 5 of the series is yet to be published.
 
 Title | Duration |
-------| -------- |
+------| --------:|
 [Part 1: Overview and Core Values](https://www.youtube.com/watch?v=Z0zpSB85XGs)|1 hour
 [Part 2: Strategic Design: Domains, Subdomains, Bounded Context and Context Maps](https://www.youtube.com/watch?v=pNTsTVoV2qA)|1 hour
 [Part 3: Internal Building Blocks: Aggregates, Entities, Value Objects](https://www.youtube.com/watch?v=RHg53wMflCc)|1 hour
@@ -31,16 +31,18 @@ Title | Duration |
 Part 5: Not yet published|
 
 ### CQRS & Event Sourcing
-Title | Duration |
-------| -------- |
-[Greg Young's CQRS Class](https://www.youtube.com/watch?v=whCk1Q87_ZI)|6 hours
+Title | Duration | Comments |
+------| --------:| -------- |
+[Greg Young's CQRS Class](https://www.youtube.com/watch?v=whCk1Q87_ZI)|6 hours|
 [Building Microservices with Event Sourcing and CQRS](https://www.youtube.com/watch?v=A0goyZ9F4bg)|90 minutes
+[Bootiful CQRS with Axon](https://www.youtube.com/watch?v=Jp-rW-XOYzA&t=2367s)|90 minutes|Axon framework creator Allard Buijze and Josh Long walk us through creating an application from scratch (using a release candidate version of Axon 3 - but the concepts very muc apply.
 
 ### Tools & Technologies
 Title | Duration | Comments |
-------| -------- | -------- |
+------| --------:| -------- |
 [Docker Containers, Third Edition](https://www.safaribooksonline.com/library/view/docker-containers-third/9780134862958/)|
 [Docker Deep Dive](https://app.pluralsight.com/library/courses/docker-deep-dive/table-of-contents)|
+[Getting Started with Kubernetes]|https://app.pluralsight.com/library/courses/getting-started-kubernetes/table-of-contents|
 [Introduction to MongoDB](https://app.pluralsight.com/library/courses/mongodb-introduction/table-of-contents)|
 [Getting Started with Apache Kafka](https://app.pluralsight.com/library/courses/apache-kafka-getting-started/table-of-contents)|
 [Learn Git](https://www.codeschool.com/learn/git)|
@@ -114,3 +116,5 @@ Title | Comments |
 * http://microservices.io/
 * https://microserviceweekly.com/
 * https://martinfowler.com/
+* http://cqrs.nu/
+* https://cqrs.wordpress.com/
