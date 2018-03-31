@@ -42,7 +42,7 @@ Title | Duration | Comments |
 ------| --------:| -------- |
 [Docker Containers, Third Edition](https://www.safaribooksonline.com/library/view/docker-containers-third/9780134862958/)|
 [Docker Deep Dive](https://app.pluralsight.com/library/courses/docker-deep-dive/table-of-contents)|
-[Getting Started with Kubernetes]|https://app.pluralsight.com/library/courses/getting-started-kubernetes/table-of-contents|
+[Getting Started with Kubernetes](https://app.pluralsight.com/library/courses/getting-started-kubernetes/)|
 [Introduction to MongoDB](https://app.pluralsight.com/library/courses/mongodb-introduction/table-of-contents)|
 [Getting Started with Apache Kafka](https://app.pluralsight.com/library/courses/apache-kafka-getting-started/table-of-contents)|
 [Learn Git](https://www.codeschool.com/learn/git)|
