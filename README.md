@@ -21,7 +21,7 @@ Title | Duration | Comments |
 [Microservice Design Patterns](https://www.safaribooksonline.com/learning-paths/learning-path-microservice/9781491993958/)|
 
 ### Domain-Driven Design
-Domain-Driven Design practitioner, [Michael Plöd](https://twitter.com/bitboss) addresses an easy to follow webinar series on the subject. Part 5 of the series is yet to be published.
+Domain-Driven Design practitioner, [Michael Plöd](https://twitter.com/bitboss) addresses an easy to follow webinar series on the subject.
 
 Title | Duration |
 ------| --------:|
