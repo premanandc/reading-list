@@ -5,7 +5,7 @@
 ## Self-paced Video Courses
 ### Foundational
 Title | Duration | Comments |
-------|:--------:| -------- | 
+------|:--------:| -------- |
 [Clean Code](https://www.safaribooksonline.com/library/view/clean-code/9780134661742/)|20 hours|[Uncle Bob](https://www.google.com/search?q=uncle+bob) does his thing. The rest, as they say, is history.
 [Design Patterns in the Real World](https://www.safaribooksonline.com/library/view/design-patterns-in/9781491935828/)|7 hours|[Allen Holub](http://holub.com/) dives deep into the intricacies of design patterns.
 [Java Fundamentals: Object-Oriented Design](https://app.pluralsight.com/library/courses/java-fundamentals-object-oriented-design/)|2 hours|[Allen Holub](http://holub.com/) uses **Java** in the examples, but the concepts apply in a much more general context.
@@ -29,14 +29,14 @@ Title | Duration |
 [Part 2: Strategic Design: Domains, Subdomains, Bounded Context and Context Maps](https://www.youtube.com/watch?v=pNTsTVoV2qA)|1 hour
 [Part 3: Internal Building Blocks: Aggregates, Entities, Value Objects](https://www.youtube.com/watch?v=RHg53wMflCc)|1 hour
 [Part 4: Domain Events & Event Storming](https://www.youtube.com/watch?v=yWDaBdV-SL8)|1 hour
-Part 5: Not yet published|
+[Part 5: Implementation Aspects with Java and Spring (Boot, Data & Cloud)](https://www.youtube.com/watch?v=DNOLwyfliLE&t=70s)|1 hour
 
 ### CQRS & Event Sourcing
 Title | Duration | Comments |
 ------| --------:| -------- |
 [Greg Young's CQRS Class](https://www.youtube.com/watch?v=whCk1Q87_ZI)|6 hours|
 [Building Microservices with Event Sourcing and CQRS](https://www.youtube.com/watch?v=A0goyZ9F4bg)|90 minutes
-[Bootiful CQRS with Axon](https://www.youtube.com/watch?v=Jp-rW-XOYzA&t=2367s)|90 minutes|Axon framework creator Allard Buijze and Josh Long walk us through creating an application from scratch (using a release candidate version of Axon 3 - but the concepts very muc apply.
+[Bootiful CQRS with Axon](https://www.youtube.com/watch?v=Jp-rW-XOYzA&t=2367s)|90 minutes|Axon framework creator Allard Buijze and Josh Long walk us through creating an application from scratch (using a release candidate version of Axon 3 - but the concepts very much apply.
 
 ### Tools & Technologies
 Title | Duration | Comments |
@@ -111,7 +111,7 @@ Title | Comments |
 Title | Comments |
 ------| -------- |
 [Git Fundamentals](https://www.safaribooksonline.com/live-training/courses/git-fundamentals/0636920166399/)|
-  
+
 
 ## Online Resources
 * http://microservices.io/
